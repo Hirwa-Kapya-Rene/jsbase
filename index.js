@@ -11,3 +11,9 @@ else if (heure > 12 && time <= 24 == true){
 else{
   ("The value entered is not validated");
 }
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+
+
+
