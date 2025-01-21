@@ -8,9 +8,5 @@ else if (heure === 12 == true){
 else if (heure > 12 && time <= 24 == true){
   alert("it's afternoon or evening");
 }
-else{
-  ("The value entered is not validated");
-}
-
 
 
