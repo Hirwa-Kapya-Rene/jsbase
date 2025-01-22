@@ -1,2 +1,3 @@
+let firstName = prompt("Sam")
 
 
